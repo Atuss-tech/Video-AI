@@ -1,0 +1,942 @@
+[
+  {
+    "id": 1,
+    "start": 0.0,
+    "end": 6.0,
+    "rawStart": 5.55,
+    "rawEnd": 11.55,
+    "speaker": "host",
+    "camera": "wide",
+    "zoom": false,
+    "topic": "Welcome & Introduction",
+    "text": "So here I'm sitting with my lovely customer and I have some questions for you.",
+    "vi": "Hôm nay mình đang ngồi cùng vị khách hàng tuyệt vời từ Vương quốc Anh",
+    "words": [
+      {
+        "word": "So",
+        "start": 0.06,
+        "end": 0.7
+      },
+      {
+        "word": "here",
+        "start": 0.7,
+        "end": 1.34
+      },
+      {
+        "word": "I'm",
+        "start": 1.34,
+        "end": 1.76
+      },
+      {
+        "word": "sitting",
+        "start": 1.76,
+        "end": 1.98
+      },
+      {
+        "word": "with",
+        "start": 1.98,
+        "end": 2.3
+      },
+      {
+        "word": "my",
+        "start": 2.3,
+        "end": 2.72
+      },
+      {
+        "word": "lovely",
+        "start": 2.72,
+        "end": 3.26
+      },
+      {
+        "word": "customer",
+        "start": 3.26,
+        "end": 4.08
+      },
+      {
+        "word": "and",
+        "start": 4.08,
+        "end": 4.64
+      },
+      {
+        "word": "I",
+        "start": 4.64,
+        "end": 4.84
+      },
+      {
+        "word": "have",
+        "start": 4.84,
+        "end": 5.06
+      },
+      {
+        "word": "some",
+        "start": 5.06,
+        "end": 5.24
+      },
+      {
+        "word": "questions",
+        "start": 5.24,
+        "end": 5.48
+      },
+      {
+        "word": "for",
+        "start": 5.48,
+        "end": 5.74
+      },
+      {
+        "word": "you.",
+        "start": 5.74,
+        "end": 5.96
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "start": 6.0,
+    "end": 13.4,
+    "rawStart": 12.05,
+    "rawEnd": 19.45,
+    "speaker": "host",
+    "camera": "host",
+    "zoom": false,
+    "topic": "Q1 • Factory First Impression",
+    "text": "So this is the first time you visit our factory and what do you think about your first impression?",
+    "vi": "Đây là lần đầu ông thăm nhà máy Haplast, ấn tượng đầu tiên của ông thế nào?",
+    "words": [
+      {
+        "word": "So",
+        "start": 6.06,
+        "end": 6.16
+      },
+      {
+        "word": "this",
+        "start": 6.16,
+        "end": 6.3
+      },
+      {
+        "word": "is",
+        "start": 6.3,
+        "end": 6.44
+      },
+      {
+        "word": "the",
+        "start": 6.44,
+        "end": 6.5200000000000005
+      },
+      {
+        "word": "first",
+        "start": 6.52,
+        "end": 6.8
+      },
+      {
+        "word": "time",
+        "start": 6.8,
+        "end": 7.08
+      },
+      {
+        "word": "you",
+        "start": 7.08,
+        "end": 7.48
+      },
+      {
+        "word": "visit",
+        "start": 7.48,
+        "end": 8.24
+      },
+      {
+        "word": "our",
+        "start": 8.24,
+        "end": 8.9
+      },
+      {
+        "word": "factory",
+        "start": 8.9,
+        "end": 9.42
+      },
+      {
+        "word": "and",
+        "start": 9.88,
+        "end": 10.2
+      },
+      {
+        "word": "what",
+        "start": 10.2,
+        "end": 10.82
+      },
+      {
+        "word": "do",
+        "start": 10.82,
+        "end": 10.94
+      },
+      {
+        "word": "you",
+        "start": 10.94,
+        "end": 11.02
+      },
+      {
+        "word": "think",
+        "start": 11.02,
+        "end": 11.26
+      },
+      {
+        "word": "about",
+        "start": 11.26,
+        "end": 11.54
+      },
+      {
+        "word": "your",
+        "start": 11.54,
+        "end": 11.84
+      },
+      {
+        "word": "first",
+        "start": 11.84,
+        "end": 12.38
+      },
+      {
+        "word": "impression?",
+        "start": 12.38,
+        "end": 13.32
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "start": 13.4,
+    "end": 15.62,
+    "rawStart": 19.9,
+    "rawEnd": 22.12,
+    "speaker": "customer",
+    "camera": "customer",
+    "zoom": true,
+    "topic": "Customer Feedback • Factory",
+    "text": "First impression is good.",
+    "vi": "Ấn tượng đầu tiên rất tốt!",
+    "words": [
+      {
+        "word": "First",
+        "start": 13.45,
+        "end": 13.71
+      },
+      {
+        "word": "impression",
+        "start": 13.71,
+        "end": 14.31
+      },
+      {
+        "word": "is",
+        "start": 14.31,
+        "end": 14.73
+      },
+      {
+        "word": "good.",
+        "start": 14.73,
+        "end": 15.57
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "start": 15.62,
+    "end": 18.57,
+    "rawStart": 22.95,
+    "rawEnd": 25.9,
+    "speaker": "customer",
+    "camera": "customer",
+    "zoom": true,
+    "topic": "Customer Feedback • Factory",
+    "text": "It's very effective, well -organized.",
+    "vi": "Quy trình làm việc rất hiệu quả và được tổ chức bài bản.",
+    "words": [
+      {
+        "word": "It's",
+        "start": 15.68,
+        "end": 16.24
+      },
+      {
+        "word": "very",
+        "start": 16.24,
+        "end": 16.4
+      },
+      {
+        "word": "effective,",
+        "start": 16.4,
+        "end": 17.08
+      },
+      {
+        "word": "well",
+        "start": 17.8,
+        "end": 17.94
+      },
+      {
+        "word": "-organized.",
+        "start": 17.94,
+        "end": 18.58
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "start": 18.57,
+    "end": 28.07,
+    "rawStart": 58.2,
+    "rawEnd": 67.7,
+    "speaker": "host",
+    "camera": "host",
+    "zoom": false,
+    "topic": "Q2 • UK Market Products",
+    "text": "so today we also discuss about our typical product the UK market. So you like our product?",
+    "vi": "Hôm nay chúng ta cũng đã thảo luận về dòng sản phẩm chủ lực cho thị trường Anh (UK). Ông thấy sản phẩm thế nào?",
+    "words": [
+      {
+        "word": "so",
+        "start": 18.66,
+        "end": 18.78
+      },
+      {
+        "word": "today",
+        "start": 18.78,
+        "end": 19.64
+      },
+      {
+        "word": "we",
+        "start": 19.64,
+        "end": 20.0
+      },
+      {
+        "word": "also",
+        "start": 20.0,
+        "end": 20.62
+      },
+      {
+        "word": "discuss",
+        "start": 20.62,
+        "end": 20.98
+      },
+      {
+        "word": "about",
+        "start": 20.98,
+        "end": 21.48
+      },
+      {
+        "word": "our",
+        "start": 21.48,
+        "end": 22.38
+      },
+      {
+        "word": "typical",
+        "start": 22.38,
+        "end": 23.36
+      },
+      {
+        "word": "product",
+        "start": 23.36,
+        "end": 24.34
+      },
+      {
+        "word": "the",
+        "start": 24.34,
+        "end": 24.78
+      },
+      {
+        "word": "UK",
+        "start": 24.78,
+        "end": 25.58
+      },
+      {
+        "word": "market.",
+        "start": 25.58,
+        "end": 26.0
+      },
+      {
+        "word": "So",
+        "start": 26.56,
+        "end": 26.66
+      },
+      {
+        "word": "you",
+        "start": 26.66,
+        "end": 27.12
+      },
+      {
+        "word": "like",
+        "start": 27.12,
+        "end": 27.3
+      },
+      {
+        "word": "our",
+        "start": 27.3,
+        "end": 27.68
+      },
+      {
+        "word": "product?",
+        "start": 27.68,
+        "end": 28.02
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "start": 28.07,
+    "end": 30.12,
+    "rawStart": 68.55,
+    "rawEnd": 70.6,
+    "speaker": "customer",
+    "camera": "customer",
+    "zoom": true,
+    "topic": "Customer Feedback • Product Quality",
+    "text": "It seems well. Yeah, it's good.",
+    "vi": "Sản phẩm rất ổn. Vâng, chất lượng rất tốt!",
+    "words": [
+      {
+        "word": "It",
+        "start": 28.15,
+        "end": 28.27
+      },
+      {
+        "word": "seems",
+        "start": 28.27,
+        "end": 28.65
+      },
+      {
+        "word": "well.",
+        "start": 28.65,
+        "end": 29.15
+      },
+      {
+        "word": "Yeah,",
+        "start": 29.53,
+        "end": 29.61
+      },
+      {
+        "word": "it's",
+        "start": 29.71,
+        "end": 29.95
+      },
+      {
+        "word": "good.",
+        "start": 29.95,
+        "end": 30.07
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "start": 30.12,
+    "end": 38.32,
+    "rawStart": 70.85,
+    "rawEnd": 79.05,
+    "speaker": "host",
+    "camera": "host",
+    "zoom": false,
+    "topic": "Q3 • Sales & Consultation Service",
+    "text": "Yeah, so how about our sales service? You are satisfied with our recommendation and our conversation?",
+    "vi": "Còn dịch vụ bán hàng của Haplast thì sao? Ông có hài lòng với tư vấn và buổi trao đổi hôm nay không?",
+    "words": [
+      {
+        "word": "Yeah,",
+        "start": 30.16,
+        "end": 30.28
+      },
+      {
+        "word": "so",
+        "start": 30.7,
+        "end": 30.86
+      },
+      {
+        "word": "how",
+        "start": 30.86,
+        "end": 31.92
+      },
+      {
+        "word": "about",
+        "start": 31.92,
+        "end": 32.2
+      },
+      {
+        "word": "our",
+        "start": 32.2,
+        "end": 33.1
+      },
+      {
+        "word": "sales",
+        "start": 33.1,
+        "end": 33.6
+      },
+      {
+        "word": "service?",
+        "start": 33.6,
+        "end": 34.0
+      },
+      {
+        "word": "You",
+        "start": 34.32,
+        "end": 34.44
+      },
+      {
+        "word": "are",
+        "start": 34.44,
+        "end": 35.28
+      },
+      {
+        "word": "satisfied",
+        "start": 35.28,
+        "end": 35.78
+      },
+      {
+        "word": "with",
+        "start": 35.78,
+        "end": 36.08
+      },
+      {
+        "word": "our",
+        "start": 36.08,
+        "end": 36.4
+      },
+      {
+        "word": "recommendation",
+        "start": 36.4,
+        "end": 37.06
+      },
+      {
+        "word": "and",
+        "start": 37.06,
+        "end": 37.54
+      },
+      {
+        "word": "our",
+        "start": 37.54,
+        "end": 37.72
+      },
+      {
+        "word": "conversation?",
+        "start": 37.72,
+        "end": 38.26
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "start": 38.32,
+    "end": 48.12,
+    "rawStart": 79.45,
+    "rawEnd": 89.25,
+    "speaker": "customer",
+    "camera": "customer",
+    "zoom": false,
+    "topic": "Customer Feedback • Service Experience",
+    "text": "For me I'm very happy to see you in contact with you so your contact will quite a while ago. And I think it's fine so far. Thank you so much.",
+    "vi": "Cá nhân tôi rất vui được gặp và làm việc trực tiếp cùng bạn sau thời gian liên hệ. Mọi thứ đều rất tốt. Cảm ơn bạn rất nhiều!",
+    "words": [
+      {
+        "word": "For",
+        "start": 38.38,
+        "end": 38.86
+      },
+      {
+        "word": "me",
+        "start": 38.86,
+        "end": 38.98
+      },
+      {
+        "word": "I'm",
+        "start": 38.98,
+        "end": 39.26
+      },
+      {
+        "word": "very",
+        "start": 39.26,
+        "end": 39.52
+      },
+      {
+        "word": "happy",
+        "start": 39.52,
+        "end": 39.74
+      },
+      {
+        "word": "to",
+        "start": 39.74,
+        "end": 40.08
+      },
+      {
+        "word": "see",
+        "start": 40.08,
+        "end": 40.32
+      },
+      {
+        "word": "you",
+        "start": 40.32,
+        "end": 40.56
+      },
+      {
+        "word": "in",
+        "start": 40.56,
+        "end": 40.68
+      },
+      {
+        "word": "contact",
+        "start": 40.68,
+        "end": 40.8
+      },
+      {
+        "word": "with",
+        "start": 40.8,
+        "end": 41.18
+      },
+      {
+        "word": "you",
+        "start": 41.18,
+        "end": 41.38
+      },
+      {
+        "word": "so",
+        "start": 41.38,
+        "end": 42.08
+      },
+      {
+        "word": "your",
+        "start": 42.08,
+        "end": 42.54
+      },
+      {
+        "word": "contact",
+        "start": 42.54,
+        "end": 43.42
+      },
+      {
+        "word": "will",
+        "start": 43.42,
+        "end": 43.6
+      },
+      {
+        "word": "quite",
+        "start": 43.6,
+        "end": 43.76
+      },
+      {
+        "word": "a",
+        "start": 43.76,
+        "end": 43.839999999999996
+      },
+      {
+        "word": "while",
+        "start": 43.8,
+        "end": 43.98
+      },
+      {
+        "word": "ago.",
+        "start": 43.98,
+        "end": 44.22
+      },
+      {
+        "word": "And",
+        "start": 44.7,
+        "end": 44.98
+      },
+      {
+        "word": "I",
+        "start": 44.98,
+        "end": 45.44
+      },
+      {
+        "word": "think",
+        "start": 45.44,
+        "end": 45.58
+      },
+      {
+        "word": "it's",
+        "start": 45.58,
+        "end": 45.92
+      },
+      {
+        "word": "fine",
+        "start": 45.92,
+        "end": 46.28
+      },
+      {
+        "word": "so",
+        "start": 46.28,
+        "end": 46.46
+      },
+      {
+        "word": "far.",
+        "start": 46.46,
+        "end": 46.66
+      },
+      {
+        "word": "Thank",
+        "start": 47.06,
+        "end": 47.54
+      },
+      {
+        "word": "you",
+        "start": 47.54,
+        "end": 47.66
+      },
+      {
+        "word": "so",
+        "start": 47.66,
+        "end": 47.82
+      },
+      {
+        "word": "much.",
+        "start": 47.82,
+        "end": 48.06
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "start": 48.12,
+    "end": 53.22,
+    "rawStart": 89.5,
+    "rawEnd": 94.6,
+    "speaker": "host",
+    "camera": "host",
+    "zoom": false,
+    "topic": "Q4 • Overall Impression of Haplast",
+    "text": "So the last question, if you want to say anything in general about Haplast?",
+    "vi": "Câu hỏi cuối cùng, ông có muốn chia sẻ điều gì chung về Haplast không?",
+    "words": [
+      {
+        "word": "So",
+        "start": 48.15,
+        "end": 48.33
+      },
+      {
+        "word": "the",
+        "start": 48.33,
+        "end": 48.91
+      },
+      {
+        "word": "last",
+        "start": 48.91,
+        "end": 49.15
+      },
+      {
+        "word": "question,",
+        "start": 49.15,
+        "end": 49.59
+      },
+      {
+        "word": "if",
+        "start": 49.97,
+        "end": 50.25
+      },
+      {
+        "word": "you",
+        "start": 50.25,
+        "end": 50.39
+      },
+      {
+        "word": "want",
+        "start": 50.39,
+        "end": 50.49
+      },
+      {
+        "word": "to",
+        "start": 50.49,
+        "end": 50.61
+      },
+      {
+        "word": "say",
+        "start": 50.61,
+        "end": 50.83
+      },
+      {
+        "word": "anything",
+        "start": 50.83,
+        "end": 51.41
+      },
+      {
+        "word": "in",
+        "start": 51.41,
+        "end": 52.03
+      },
+      {
+        "word": "general",
+        "start": 52.03,
+        "end": 52.35
+      },
+      {
+        "word": "about",
+        "start": 52.35,
+        "end": 52.71
+      },
+      {
+        "word": "Haplast?",
+        "start": 52.71,
+        "end": 53.13
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "start": 53.22,
+    "end": 58.64,
+    "rawStart": 96.0,
+    "rawEnd": 101.42,
+    "speaker": "customer",
+    "camera": "customer",
+    "zoom": true,
+    "topic": "Final Verdict • Haplast Group",
+    "text": "I consider it is a good company. Okay, thank you so much. Thank you for the time today.",
+    "vi": "Tôi đánh giá Haplast là một công ty rất tốt! — Cảm ơn ông rất nhiều vì đã dành thời gian hôm nay.",
+    "words": [
+      {
+        "word": "I",
+        "start": 53.27,
+        "end": 53.35
+      },
+      {
+        "word": "consider",
+        "start": 53.31,
+        "end": 53.67
+      },
+      {
+        "word": "it",
+        "start": 53.67,
+        "end": 54.33
+      },
+      {
+        "word": "is",
+        "start": 54.33,
+        "end": 54.51
+      },
+      {
+        "word": "a",
+        "start": 54.51,
+        "end": 54.99
+      },
+      {
+        "word": "good",
+        "start": 54.99,
+        "end": 55.23
+      },
+      {
+        "word": "company.",
+        "start": 55.23,
+        "end": 55.59
+      },
+      {
+        "word": "Okay,",
+        "start": 56.25,
+        "end": 56.73
+      },
+      {
+        "word": "thank",
+        "start": 56.83,
+        "end": 56.95
+      },
+      {
+        "word": "you",
+        "start": 56.95,
+        "end": 57.07
+      },
+      {
+        "word": "so",
+        "start": 57.07,
+        "end": 57.21
+      },
+      {
+        "word": "much.",
+        "start": 57.21,
+        "end": 57.47
+      },
+      {
+        "word": "Thank",
+        "start": 57.65,
+        "end": 57.75
+      },
+      {
+        "word": "you",
+        "start": 57.75,
+        "end": 57.85
+      },
+      {
+        "word": "for",
+        "start": 57.85,
+        "end": 57.97
+      },
+      {
+        "word": "the",
+        "start": 57.97,
+        "end": 58.09
+      },
+      {
+        "word": "time",
+        "start": 58.09,
+        "end": 58.29
+      },
+      {
+        "word": "today.",
+        "start": 58.29,
+        "end": 58.59
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "start": 58.64,
+    "end": 60.14,
+    "rawStart": 102.65,
+    "rawEnd": 104.15,
+    "speaker": "host",
+    "camera": "wide",
+    "zoom": false,
+    "topic": "Closing • Thank You",
+    "text": "That would be a million dollar. Thank you so much.",
+    "vi": "Lời khen đáng giá triệu đô! Cảm ơn ông rất nhiều!",
+    "words": [
+      {
+        "word": "That",
+        "start": 58.7,
+        "end": 59.18
+      },
+      {
+        "word": "would",
+        "start": 59.18,
+        "end": 59.3
+      },
+      {
+        "word": "be",
+        "start": 59.3,
+        "end": 59.38
+      },
+      {
+        "word": "a",
+        "start": 59.38,
+        "end": 59.46
+      },
+      {
+        "word": "million",
+        "start": 59.38,
+        "end": 59.58
+      },
+      {
+        "word": "dollar.",
+        "start": 59.58,
+        "end": 59.82
+      },
+      {
+        "word": "Thank",
+        "start": 59.82,
+        "end": 59.9
+      },
+      {
+        "word": "you",
+        "start": 59.82,
+        "end": 59.9
+      },
+      {
+        "word": "so",
+        "start": 59.82,
+        "end": 59.9
+      },
+      {
+        "word": "much.",
+        "start": 59.82,
+        "end": 60.0
+      }
+    ]
+  }
+]

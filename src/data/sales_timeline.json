@@ -1,0 +1,1207 @@
+{
+  "title": "Quảng bá Dịch vụ Xây dựng Workflow Tự động hóa & Website Thương Hiệu",
+  "audioFile": "audio/sales_marketing_voice.mp3",
+  "totalDuration": 53.16,
+  "scenes": [
+    {
+      "id": 1,
+      "stepLabel": "01 / 05 • NỖI ĐAU ĐỐT TIỀN QUẢNG CÁO",
+      "phase": "pain",
+      "headline": "KHÁCH NHẮN LÚC 10H ĐÊM\nSÁNG MAI MỚI TRẢ LỜI?",
+      "subheadline": "Đổ tiền triệu chạy Ads nhưng mất khách nóng chỉ vì chậm 15 phút",
+      "voiceText": "Bỏ tiền triệu chạy quảng cáo mỗi ngày, khách nhắn hỏi mua lúc mười giờ đêm nhưng nhân viên nghỉ hết. Sáng hôm sau mới trả lời thì khách đã chuyển khoản cho đối thủ mất rồi!",
+      "illustration": "images/real_pain_1.jpg",
+      "photoTag": "23:15 ĐÊM • 14 TIN NHẮN KHÁCH HỎI MUA CHƯA AI TRỰC",
+      "cards": [
+        {
+          "tag": "23:14 ĐÊM",
+          "title": "Khách nhắn: “Báo giá sỉ giúp mình nhé!”",
+          "desc": "Không có nhân viên trực đêm -> Tin nhắn bị trôi",
+          "status": "BỎ LỠ ❌"
+        },
+        {
+          "tag": "08:30 SÁNG",
+          "title": "Sale mới rep -> Khách: “Mình đặt bên khác rồi”",
+          "desc": "Mất trắng tiền quảng cáo & mất luôn đơn hàng vào tay đối thủ",
+          "status": "MẤT ĐƠN 💸"
+        }
+      ],
+      "start": 0.0,
+      "end": 9.3,
+      "duration": 9.3,
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 0.0,
+          "end": 0.36
+        },
+        {
+          "word": "tiền",
+          "start": 0.36,
+          "end": 0.56
+        },
+        {
+          "word": "triệu",
+          "start": 0.56,
+          "end": 0.76
+        },
+        {
+          "word": "chạy",
+          "start": 0.76,
+          "end": 0.92
+        },
+        {
+          "word": "quảng",
+          "start": 0.92,
+          "end": 1.12
+        },
+        {
+          "word": "cáo",
+          "start": 1.12,
+          "end": 1.34
+        },
+        {
+          "word": "mỗi",
+          "start": 1.34,
+          "end": 1.5
+        },
+        {
+          "word": "ngày,",
+          "start": 1.5,
+          "end": 1.66
+        },
+        {
+          "word": "khách",
+          "start": 2.0,
+          "end": 2.1
+        },
+        {
+          "word": "nhắn",
+          "start": 2.1,
+          "end": 2.4
+        },
+        {
+          "word": "hỏi",
+          "start": 2.4,
+          "end": 2.56
+        },
+        {
+          "word": "mua",
+          "start": 2.56,
+          "end": 2.74
+        },
+        {
+          "word": "lúc",
+          "start": 2.74,
+          "end": 2.92
+        },
+        {
+          "word": "mười",
+          "start": 2.92,
+          "end": 3.04
+        },
+        {
+          "word": "giờ",
+          "start": 3.04,
+          "end": 3.26
+        },
+        {
+          "word": "đêm",
+          "start": 3.26,
+          "end": 3.52
+        },
+        {
+          "word": "nhưng",
+          "start": 3.52,
+          "end": 3.8
+        },
+        {
+          "word": "nhân",
+          "start": 3.8,
+          "end": 4.14
+        },
+        {
+          "word": "viên",
+          "start": 4.14,
+          "end": 4.26
+        },
+        {
+          "word": "nghỉ",
+          "start": 4.14,
+          "end": 4.26
+        },
+        {
+          "word": "hết.",
+          "start": 4.26,
+          "end": 4.46
+        },
+        {
+          "word": "Sáng",
+          "start": 5.22,
+          "end": 5.5
+        },
+        {
+          "word": "hôm",
+          "start": 5.5,
+          "end": 5.68
+        },
+        {
+          "word": "sau",
+          "start": 5.68,
+          "end": 5.88
+        },
+        {
+          "word": "mới",
+          "start": 5.88,
+          "end": 6.06
+        },
+        {
+          "word": "trả",
+          "start": 6.06,
+          "end": 6.28
+        },
+        {
+          "word": "lời",
+          "start": 6.28,
+          "end": 6.5
+        },
+        {
+          "word": "thì",
+          "start": 6.5,
+          "end": 6.66
+        },
+        {
+          "word": "khách",
+          "start": 6.66,
+          "end": 6.86
+        },
+        {
+          "word": "đã",
+          "start": 6.86,
+          "end": 6.98
+        },
+        {
+          "word": "chuyển",
+          "start": 6.98,
+          "end": 7.16
+        },
+        {
+          "word": "khoản",
+          "start": 7.16,
+          "end": 7.4
+        },
+        {
+          "word": "cho",
+          "start": 7.4,
+          "end": 7.56
+        },
+        {
+          "word": "đối",
+          "start": 7.56,
+          "end": 7.72
+        },
+        {
+          "word": "thủ",
+          "start": 7.72,
+          "end": 7.86
+        },
+        {
+          "word": "mất",
+          "start": 7.86,
+          "end": 8.06
+        },
+        {
+          "word": "rồi!",
+          "start": 8.06,
+          "end": 8.22
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "stepLabel": "02 / 05 • LỖ HỔNG QUẢN LÝ & CHĂM SÓC",
+      "phase": "pain",
+      "headline": "BỎ RƠI 80% KHÁCH ĐÃ HỎI\nVÌ QUÊN CHĂM SÓC LẠI!",
+      "subheadline": "Sale chỉ thích khách dễ chốt • Data khách cũ nằm chết trong file Excel",
+      "voiceText": "Đau hơn nữa là khách hỏi giá xong im lặng thì nhân viên cũng bỏ trôi luôn, không ai nhắn tin chăm lại. Hàng trăm khách hàng tiềm năng bị vứt xó trong các file Excel rời rạc!",
+      "illustration": "images/real_pain_2.jpg",
+      "photoTag": "THỰC TẾ PHÒNG SALE • QUÁ TẢI TIN NHẮN & FILE EXCEL RỜI RẠC",
+      "cards": [
+        {
+          "tag": "100 KHÁCH HỎI",
+          "title": "85% Khách cần được nhắc lại lần 2, lần 3 mới mua",
+          "desc": "Nhưng nhân viên sale bận hoặc quên không bao giờ nhắn lại",
+          "status": "LÃNG PHÍ ⚠️"
+        },
+        {
+          "tag": "QUẢN LÝ MÙ MỜ",
+          "title": "Cuối ngày mới ngồi gõ tay vào bảng Excel",
+          "desc": "Sai sót số liệu, chủ doanh nghiệp phụ thuộc hoàn toàn vào nhân sự",
+          "status": "RỦI RO 📉"
+        }
+      ],
+      "start": 9.3,
+      "end": 18.86,
+      "duration": 9.56,
+      "words": [
+        {
+          "word": "Đau",
+          "start": 9.3,
+          "end": 9.66
+        },
+        {
+          "word": "hơn",
+          "start": 9.66,
+          "end": 9.82
+        },
+        {
+          "word": "nữa",
+          "start": 9.82,
+          "end": 10.02
+        },
+        {
+          "word": "là",
+          "start": 10.02,
+          "end": 10.16
+        },
+        {
+          "word": "khách",
+          "start": 10.16,
+          "end": 10.28
+        },
+        {
+          "word": "hỏi",
+          "start": 10.28,
+          "end": 10.54
+        },
+        {
+          "word": "giá",
+          "start": 10.54,
+          "end": 10.7
+        },
+        {
+          "word": "xong",
+          "start": 10.7,
+          "end": 10.9
+        },
+        {
+          "word": "im",
+          "start": 10.9,
+          "end": 11.06
+        },
+        {
+          "word": "lặng",
+          "start": 11.06,
+          "end": 11.26
+        },
+        {
+          "word": "thì",
+          "start": 11.4,
+          "end": 11.44
+        },
+        {
+          "word": "nhân",
+          "start": 11.44,
+          "end": 11.58
+        },
+        {
+          "word": "viên",
+          "start": 11.58,
+          "end": 11.82
+        },
+        {
+          "word": "cũng",
+          "start": 11.82,
+          "end": 11.94
+        },
+        {
+          "word": "bỏ",
+          "start": 11.94,
+          "end": 12.16
+        },
+        {
+          "word": "trôi",
+          "start": 12.16,
+          "end": 12.36
+        },
+        {
+          "word": "luôn,",
+          "start": 12.36,
+          "end": 12.5
+        },
+        {
+          "word": "không",
+          "start": 12.86,
+          "end": 12.98
+        },
+        {
+          "word": "ai",
+          "start": 12.98,
+          "end": 13.18
+        },
+        {
+          "word": "nhắn",
+          "start": 13.42,
+          "end": 13.62
+        },
+        {
+          "word": "tin",
+          "start": 13.62,
+          "end": 13.8
+        },
+        {
+          "word": "chăm",
+          "start": 13.8,
+          "end": 14.08
+        },
+        {
+          "word": "lại.",
+          "start": 14.88,
+          "end": 15.12
+        },
+        {
+          "word": "Hàng",
+          "start": 15.12,
+          "end": 15.32
+        },
+        {
+          "word": "trăm",
+          "start": 15.32,
+          "end": 15.46
+        },
+        {
+          "word": "khách",
+          "start": 15.46,
+          "end": 15.62
+        },
+        {
+          "word": "hàng",
+          "start": 15.62,
+          "end": 15.9
+        },
+        {
+          "word": "tiềm",
+          "start": 15.9,
+          "end": 16.06
+        },
+        {
+          "word": "năng",
+          "start": 16.06,
+          "end": 16.18
+        },
+        {
+          "word": "bị",
+          "start": 16.18,
+          "end": 16.36
+        },
+        {
+          "word": "vứt",
+          "start": 16.36,
+          "end": 16.52
+        },
+        {
+          "word": "xó",
+          "start": 16.52,
+          "end": 16.7
+        },
+        {
+          "word": "trong",
+          "start": 16.7,
+          "end": 16.88
+        },
+        {
+          "word": "các",
+          "start": 16.88,
+          "end": 17.04
+        },
+        {
+          "word": "file",
+          "start": 17.04,
+          "end": 17.28
+        },
+        {
+          "word": "Excel",
+          "start": 17.28,
+          "end": 17.5
+        },
+        {
+          "word": "rời",
+          "start": 17.5,
+          "end": 17.68
+        },
+        {
+          "word": "rạc!",
+          "start": 17.68,
+          "end": 17.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "stepLabel": "03 / 05 • GIẢI PHÁP WORKFLOW & WEBSITE 24/7",
+      "phase": "solution",
+      "headline": "TỰ ĐỘNG TƯ VẤN & BÁO ĐƠN\nTRONG VÒNG 3 GIÂY (24/7)",
+      "subheadline": "Website Thương Hiệu chuẩn uy tín + Luồng Workflow n8n đón khách tự động",
+      "voiceText": "Đó là lúc bạn cần một Website thương hiệu kết hợp luồng Workflow tự động hóa. Khách vừa để lại thông tin lúc nửa đêm, hệ thống lập tức tư vấn, lưu thẳng vào bảng quản lý và báo ngay về Zalo cho sale trong ba giây!",
+      "illustration": "images/real_solution_3.jpg",
+      "photoTag": "HỆ THỐNG WORKFLOW N8N • ĐỒNG BỘ WEBSITE, FACEBOOK, CRM & ZALO",
+      "cards": [
+        {
+          "tag": "BƯỚC 1 -> 2",
+          "title": "Khách từ FB Ads / Website -> AI Tư Vấn Ngay Lập Tức",
+          "desc": "Phản hồi khách trong 3 giây bất kể 12h đêm hay ngày nghỉ lễ",
+          "status": "AUTO 3S ⚡"
+        },
+        {
+          "tag": "BƯỚC 3 -> 4",
+          "title": "Tự Động Lưu CRM / Sheet -> Báo Ting Ting Về Zalo Sale",
+          "desc": "Phân loại rõ khách sỉ/lẻ, không bao giờ thất thoát 1 số điện thoại nào",
+          "status": "ĐỒNG BỘ ✅"
+        }
+      ],
+      "start": 18.86,
+      "end": 30.46,
+      "duration": 11.6,
+      "words": [
+        {
+          "word": "Đó",
+          "start": 18.86,
+          "end": 19.18
+        },
+        {
+          "word": "là",
+          "start": 19.18,
+          "end": 19.32
+        },
+        {
+          "word": "lúc",
+          "start": 19.32,
+          "end": 19.46
+        },
+        {
+          "word": "bạn",
+          "start": 19.46,
+          "end": 19.6
+        },
+        {
+          "word": "cần",
+          "start": 19.6,
+          "end": 19.8
+        },
+        {
+          "word": "một",
+          "start": 19.8,
+          "end": 19.98
+        },
+        {
+          "word": "Website",
+          "start": 19.98,
+          "end": 20.28
+        },
+        {
+          "word": "thương",
+          "start": 20.28,
+          "end": 20.56
+        },
+        {
+          "word": "hiệu",
+          "start": 20.56,
+          "end": 20.76
+        },
+        {
+          "word": "kết",
+          "start": 20.76,
+          "end": 20.96
+        },
+        {
+          "word": "hợp",
+          "start": 20.96,
+          "end": 21.16
+        },
+        {
+          "word": "luồng",
+          "start": 21.16,
+          "end": 21.32
+        },
+        {
+          "word": "Workflow",
+          "start": 21.56,
+          "end": 21.78
+        },
+        {
+          "word": "tự",
+          "start": 21.78,
+          "end": 21.92
+        },
+        {
+          "word": "động",
+          "start": 21.92,
+          "end": 22.16
+        },
+        {
+          "word": "hóa.",
+          "start": 22.16,
+          "end": 22.5
+        },
+        {
+          "word": "Khách",
+          "start": 23.22,
+          "end": 23.5
+        },
+        {
+          "word": "vừa",
+          "start": 23.5,
+          "end": 23.7
+        },
+        {
+          "word": "để",
+          "start": 23.7,
+          "end": 23.78
+        },
+        {
+          "word": "lại",
+          "start": 23.78,
+          "end": 23.92
+        },
+        {
+          "word": "thông",
+          "start": 23.92,
+          "end": 24.1
+        },
+        {
+          "word": "tin",
+          "start": 24.1,
+          "end": 24.24
+        },
+        {
+          "word": "lúc",
+          "start": 24.24,
+          "end": 24.44
+        },
+        {
+          "word": "nửa",
+          "start": 24.44,
+          "end": 24.64
+        },
+        {
+          "word": "đêm,",
+          "start": 24.64,
+          "end": 24.8
+        },
+        {
+          "word": "hệ",
+          "start": 25.18,
+          "end": 25.22
+        },
+        {
+          "word": "thống",
+          "start": 25.22,
+          "end": 25.4
+        },
+        {
+          "word": "lập",
+          "start": 25.4,
+          "end": 25.56
+        },
+        {
+          "word": "tức",
+          "start": 25.56,
+          "end": 25.7
+        },
+        {
+          "word": "tư",
+          "start": 25.7,
+          "end": 25.9
+        },
+        {
+          "word": "vấn,",
+          "start": 25.9,
+          "end": 26.08
+        },
+        {
+          "word": "lưu",
+          "start": 26.5,
+          "end": 26.6
+        },
+        {
+          "word": "thẳng",
+          "start": 26.6,
+          "end": 26.78
+        },
+        {
+          "word": "vào",
+          "start": 26.78,
+          "end": 26.9
+        },
+        {
+          "word": "bảng",
+          "start": 26.9,
+          "end": 27.06
+        },
+        {
+          "word": "quản",
+          "start": 27.26,
+          "end": 27.44
+        },
+        {
+          "word": "lý",
+          "start": 27.44,
+          "end": 27.64
+        },
+        {
+          "word": "và",
+          "start": 27.64,
+          "end": 27.82
+        },
+        {
+          "word": "báo",
+          "start": 27.82,
+          "end": 28.0
+        },
+        {
+          "word": "ngay",
+          "start": 28.0,
+          "end": 28.12
+        },
+        {
+          "word": "về",
+          "start": 28.12,
+          "end": 28.34
+        },
+        {
+          "word": "Zalo",
+          "start": 28.34,
+          "end": 28.5
+        },
+        {
+          "word": "cho",
+          "start": 28.5,
+          "end": 28.68
+        },
+        {
+          "word": "sale",
+          "start": 28.68,
+          "end": 28.92
+        },
+        {
+          "word": "trong",
+          "start": 28.92,
+          "end": 29.04
+        },
+        {
+          "word": "ba",
+          "start": 29.04,
+          "end": 29.22
+        },
+        {
+          "word": "giây!",
+          "start": 29.22,
+          "end": 29.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "stepLabel": "04 / 05 • CỖ MÁY BÁM ĐUỔI KHÁCH TỰ ĐỘNG",
+      "phase": "solution",
+      "headline": "TỰ ĐỘNG CHĂM LẠI KHÁCH CŨ\nX2 ĐƠN TỪ CÙNG TIỀN ADS",
+      "subheadline": "Kịch bản tự động nhắc nhớ Ngày 1 • Ngày 3 • Ngày 7 đến khi khách chốt",
+      "voiceText": "Khách xem xong chưa mua ngay? Hệ thống tự động gửi kịch bản chăm sóc khéo léo vào ngày thứ hai, ngày thứ năm cho đến khi chốt được đơn. Không phụ thuộc nhân sự, tăng gấp đôi doanh thu từ cùng một chi phí quảng cáo!",
+      "illustration": "images/real_result_4.jpg",
+      "photoTag": "CHỦ DOANH NGHIỆP THẢNH THƠI • KIỂM SOÁT 100% TỶ LỆ CHUYỂN ĐỔI",
+      "cards": [
+        {
+          "tag": "FOLLOW-UP TỰ ĐỘNG",
+          "title": "Ngày 1 gửi Bảng giá • Ngày 3 gửi Feedback • Ngày 7 gửi Ưu đãi",
+          "desc": "Chăm sóc 1.000 khách cũ cùng lúc hoàn toàn tự động không sót 1 ai",
+          "status": "X2 DOANH SỐ 🚀"
+        },
+        {
+          "tag": "CẮT GIẢM 80% VIỆC TAY",
+          "title": "Báo cáo doanh thu & nguồn khách cập nhật thời gian thực",
+          "desc": "Mở điện thoại là biết ngay hôm nay có bao nhiêu khách nét, bao nhiêu đơn",
+          "status": "TỐI ƯU 24/7 📊"
+        }
+      ],
+      "start": 30.46,
+      "end": 42.78,
+      "duration": 12.32,
+      "words": [
+        {
+          "word": "Khách",
+          "start": 30.46,
+          "end": 30.82
+        },
+        {
+          "word": "xem",
+          "start": 30.82,
+          "end": 30.98
+        },
+        {
+          "word": "xong",
+          "start": 30.98,
+          "end": 31.22
+        },
+        {
+          "word": "chưa",
+          "start": 31.22,
+          "end": 31.44
+        },
+        {
+          "word": "mua",
+          "start": 31.44,
+          "end": 31.68
+        },
+        {
+          "word": "ngay?",
+          "start": 31.68,
+          "end": 31.88
+        },
+        {
+          "word": "Hệ",
+          "start": 32.7,
+          "end": 32.88
+        },
+        {
+          "word": "thống",
+          "start": 32.88,
+          "end": 33.04
+        },
+        {
+          "word": "tự",
+          "start": 33.04,
+          "end": 33.2
+        },
+        {
+          "word": "động",
+          "start": 33.2,
+          "end": 33.38
+        },
+        {
+          "word": "gửi",
+          "start": 33.38,
+          "end": 33.64
+        },
+        {
+          "word": "kịch",
+          "start": 33.64,
+          "end": 33.82
+        },
+        {
+          "word": "bản",
+          "start": 33.82,
+          "end": 33.94
+        },
+        {
+          "word": "chăm",
+          "start": 33.94,
+          "end": 34.16
+        },
+        {
+          "word": "sóc",
+          "start": 34.16,
+          "end": 34.38
+        },
+        {
+          "word": "khéo",
+          "start": 34.38,
+          "end": 34.56
+        },
+        {
+          "word": "léo",
+          "start": 34.56,
+          "end": 34.76
+        },
+        {
+          "word": "vào",
+          "start": 34.76,
+          "end": 34.88
+        },
+        {
+          "word": "ngày",
+          "start": 34.88,
+          "end": 35.04
+        },
+        {
+          "word": "thứ",
+          "start": 35.04,
+          "end": 35.16
+        },
+        {
+          "word": "hai,",
+          "start": 35.16,
+          "end": 35.38
+        },
+        {
+          "word": "ngày",
+          "start": 35.38,
+          "end": 35.86
+        },
+        {
+          "word": "thứ",
+          "start": 35.86,
+          "end": 36.06
+        },
+        {
+          "word": "năm",
+          "start": 36.06,
+          "end": 36.22
+        },
+        {
+          "word": "cho",
+          "start": 36.22,
+          "end": 36.42
+        },
+        {
+          "word": "đến",
+          "start": 36.42,
+          "end": 36.52
+        },
+        {
+          "word": "khi",
+          "start": 36.52,
+          "end": 36.72
+        },
+        {
+          "word": "chốt",
+          "start": 36.72,
+          "end": 36.92
+        },
+        {
+          "word": "được",
+          "start": 36.92,
+          "end": 37.08
+        },
+        {
+          "word": "đơn.",
+          "start": 37.08,
+          "end": 37.28
+        },
+        {
+          "word": "Không",
+          "start": 38.2,
+          "end": 38.36
+        },
+        {
+          "word": "phụ",
+          "start": 38.36,
+          "end": 38.54
+        },
+        {
+          "word": "thuộc",
+          "start": 38.54,
+          "end": 38.8
+        },
+        {
+          "word": "nhân",
+          "start": 38.8,
+          "end": 38.9
+        },
+        {
+          "word": "sự,",
+          "start": 38.9,
+          "end": 39.14
+        },
+        {
+          "word": "tăng",
+          "start": 39.14,
+          "end": 39.68
+        },
+        {
+          "word": "gấp",
+          "start": 39.68,
+          "end": 39.8
+        },
+        {
+          "word": "đôi",
+          "start": 39.8,
+          "end": 40.0
+        },
+        {
+          "word": "doanh",
+          "start": 40.0,
+          "end": 40.2
+        },
+        {
+          "word": "thu",
+          "start": 40.2,
+          "end": 40.32
+        },
+        {
+          "word": "từ",
+          "start": 40.32,
+          "end": 40.56
+        },
+        {
+          "word": "cùng",
+          "start": 40.56,
+          "end": 40.68
+        },
+        {
+          "word": "một",
+          "start": 40.68,
+          "end": 40.88
+        },
+        {
+          "word": "chi",
+          "start": 40.88,
+          "end": 41.04
+        },
+        {
+          "word": "phí",
+          "start": 41.04,
+          "end": 41.24
+        },
+        {
+          "word": "quảng",
+          "start": 41.24,
+          "end": 41.44
+        },
+        {
+          "word": "cáo!",
+          "start": 41.44,
+          "end": 41.72
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "stepLabel": "05 / 05 • ĐĂNG KÝ KHẢO SÁT & DEMO QUY TRÌNH",
+      "phase": "cta",
+      "headline": "ĐẶT LỊCH KHẢO SÁT & DEMO\nHỆ THỐNG CHO RIÊNG BẠN",
+      "subheadline": "Thiết kế Website Thương Hiệu & Workflow Tự Động Hóa may đo trọn gói",
+      "voiceText": "Đừng để tiền quảng cáo chảy vào túi đối thủ nữa. Nhắn tin ngay hôm nay để bên mình khảo sát quy trình và thiết kế hệ thống Website kèm Workflow tự động hóa may đo riêng cho doanh nghiệp của bạn!",
+      "illustration": "images/real_solution_3.jpg",
+      "photoTag": "BÀN GIAO TRỌN GÓI • ĐÀO TẠO & ĐỒNG HÀNH VẬN HÀNH 1 KÈM 1",
+      "cards": [
+        {
+          "tag": "QUÀ TẶNG TRONG TUẦN",
+          "title": "Miễn phí Khảo sát Quy trình & Vẽ Sơ đồ Tự động hóa 1-1",
+          "desc": "Chỉ ra chính xác điểm nghẽn đang làm doanh nghiệp bạn rơi rụng khách",
+          "status": "MIỄN PHÍ 🎁"
+        },
+        {
+          "tag": "HÀNH ĐỘNG NGAY",
+          "title": "📩 Nhắn tin (Inbox) hoặc Bình luận “TỰ ĐỘNG HÓA”",
+          "desc": "Đội ngũ kỹ thuật sẽ gửi bản Demo thực tế đúng ngành hàng của bạn!",
+          "status": "INBOX NGAY 👉"
+        }
+      ],
+      "start": 42.78,
+      "end": 53.16,
+      "duration": 10.38,
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 42.78,
+          "end": 43.14
+        },
+        {
+          "word": "để",
+          "start": 43.14,
+          "end": 43.28
+        },
+        {
+          "word": "tiền",
+          "start": 43.28,
+          "end": 43.5
+        },
+        {
+          "word": "quảng",
+          "start": 43.5,
+          "end": 43.68
+        },
+        {
+          "word": "cáo",
+          "start": 43.68,
+          "end": 43.96
+        },
+        {
+          "word": "chảy",
+          "start": 43.96,
+          "end": 44.18
+        },
+        {
+          "word": "vào",
+          "start": 44.18,
+          "end": 44.28
+        },
+        {
+          "word": "túi",
+          "start": 44.28,
+          "end": 44.62
+        },
+        {
+          "word": "đối",
+          "start": 44.62,
+          "end": 44.82
+        },
+        {
+          "word": "thủ",
+          "start": 44.82,
+          "end": 45.0
+        },
+        {
+          "word": "nữa.",
+          "start": 45.0,
+          "end": 45.3
+        },
+        {
+          "word": "Nhắn",
+          "start": 46.02,
+          "end": 46.32
+        },
+        {
+          "word": "tin",
+          "start": 46.32,
+          "end": 46.44
+        },
+        {
+          "word": "ngay",
+          "start": 46.44,
+          "end": 46.58
+        },
+        {
+          "word": "hôm",
+          "start": 46.58,
+          "end": 46.74
+        },
+        {
+          "word": "nay",
+          "start": 46.74,
+          "end": 46.92
+        },
+        {
+          "word": "để",
+          "start": 46.92,
+          "end": 47.12
+        },
+        {
+          "word": "bên",
+          "start": 47.12,
+          "end": 47.22
+        },
+        {
+          "word": "mình",
+          "start": 47.22,
+          "end": 47.42
+        },
+        {
+          "word": "khảo",
+          "start": 47.42,
+          "end": 47.64
+        },
+        {
+          "word": "sát",
+          "start": 47.64,
+          "end": 47.8
+        },
+        {
+          "word": "quy",
+          "start": 47.96,
+          "end": 48.18
+        },
+        {
+          "word": "trình",
+          "start": 48.18,
+          "end": 48.38
+        },
+        {
+          "word": "và",
+          "start": 48.38,
+          "end": 48.62
+        },
+        {
+          "word": "thiết",
+          "start": 48.62,
+          "end": 48.76
+        },
+        {
+          "word": "kế",
+          "start": 48.76,
+          "end": 48.9
+        },
+        {
+          "word": "hệ",
+          "start": 48.9,
+          "end": 49.08
+        },
+        {
+          "word": "thống",
+          "start": 49.08,
+          "end": 49.26
+        },
+        {
+          "word": "Website",
+          "start": 49.26,
+          "end": 49.44
+        },
+        {
+          "word": "kèm",
+          "start": 49.44,
+          "end": 49.74
+        },
+        {
+          "word": "Workflow",
+          "start": 49.74,
+          "end": 49.9
+        },
+        {
+          "word": "tự",
+          "start": 49.9,
+          "end": 50.08
+        },
+        {
+          "word": "động",
+          "start": 50.08,
+          "end": 50.26
+        },
+        {
+          "word": "hóa",
+          "start": 50.26,
+          "end": 50.42
+        },
+        {
+          "word": "may",
+          "start": 50.42,
+          "end": 50.74
+        },
+        {
+          "word": "đo",
+          "start": 50.74,
+          "end": 50.98
+        },
+        {
+          "word": "riêng",
+          "start": 50.98,
+          "end": 51.28
+        },
+        {
+          "word": "cho",
+          "start": 51.28,
+          "end": 51.44
+        },
+        {
+          "word": "doanh",
+          "start": 51.44,
+          "end": 51.6
+        },
+        {
+          "word": "nghiệp",
+          "start": 51.6,
+          "end": 51.76
+        },
+        {
+          "word": "của",
+          "start": 51.76,
+          "end": 51.88
+        },
+        {
+          "word": "bạn!",
+          "start": 51.88,
+          "end": 52.1
+        }
+      ]
+    }
+  ]
+}
